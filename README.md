@@ -1,6 +1,9 @@
 # RC4
 CS4236 Cryptography Theory and Practices Project
 
+This project is about exploiting RC4 implementation by using FMS and Korek Attacks to determine the secret key given the known IV (Initial Value) and encrypted plaintext. 
+
+
 Implemented Attacks:
 1) FMS Attack
 2) Korek Attacks
